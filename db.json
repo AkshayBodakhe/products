@@ -11,7 +11,7 @@
         },
         {
             "id" : 2,
-            "name" : "samsung m31",
+            "name" : "samsung m32",
             "color" : "blue",
             "price" : 17000,
             "category" : "mobile",
@@ -20,7 +20,7 @@
         },
         {
             "id" : 3,
-            "name" : "samsung m31",
+            "name" : "samsung m41",
             "color" : "blue",
             "price" : 17000,
             "category" : "mobile",
@@ -29,7 +29,7 @@
         },
         {
             "id" : 4,
-            "name" : "samsung m31",
+            "name" : "samsung m30",
             "color" : "blue",
             "price" : 17000,
             "category" : "mobile",
